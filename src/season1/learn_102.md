@@ -16,18 +16,16 @@
 |We ran into her parents at the club.|run into someone. 遇到了，碰到了谁谁谁。||
 |there are people like Ross who need to shoot for the stars.|shoot for the stars: 设定远大的目标、努力争取最好的结果、志存高远。||
 |no little anecdotes to share with the folks?|anecdote 指一则简短的趣闻、轶事，通常是亲身经历或生活中的小故事。||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|she's very supportive.|她对我们很支持。||
+|That opens my cervix.|那个是用来打开我的宫颈的。||
+|Jason Greenstein's gagging.|gag：干呕||
+|Things change, roll with the punches.|事情总会变的，要学会随机应变。||
+|What have you been up to?|你最近都在忙些什么？||
+|My maid of honour, Mindy?!|伴娘。||
+|we're kind of a thing now.|我们算是在交往了。||
+|I'm an orthodontist.|orthodontist：牙医。||
+|I don't remember you making any sperm.|sperm: 精子。||
+|I think that borders on child abuse.|我觉得那简直算得上虐待儿童了。border on: 几乎达到……的程度；近乎……||
+|Any nausea?|nausea 是名词，表示“恶心”这种身体感受||
+|I was just wondering about the mother-to-be.|mother-to-be: 准妈妈。||
+|are you welling up?|你是不是要哭了？，well up 通常指眼泪涌上眼眶，也可以形容情绪涌上心头。||
