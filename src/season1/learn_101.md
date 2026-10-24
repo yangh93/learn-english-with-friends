@@ -1,3 +1,5 @@
+# 第 1 季 · 第 1 集
+
 |表达|解读|例句|
 | --- | --- | --- |
 |So does he have a hump? A hump and a hairpiece?|hump: 驼背、背部隆起；<br><br>hairpiece：假发、假发片||

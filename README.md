@@ -4,6 +4,41 @@
 
 这里用 Markdown 记录逐集学习笔记，包括词汇、地道表达、听力难点、跟读练习和原创造句。从第一季开始，边看、边学、边复习。
 
+## 在线阅读与部署
+
+网站地址：[跟着老友记学英语](https://yangh93.github.io/learn-english-with-friends/)。首次部署成功后即可访问。
+
+网站使用 VitePress，左侧按季、按集显示目录，正文展示 Markdown，并支持本地搜索、深色模式和手机阅读。
+
+### 本地预览
+
+安装 Node.js 22 或更高版本后，在仓库根目录执行：
+
+```powershell
+npm ci
+npm run docs:dev
+```
+
+打开终端显示的本地地址。部署前可用 `npm run docs:build` 检查构建，使用 `npm run docs:preview` 预览构建结果。
+
+### 发布到 GitHub Pages
+
+1. 在 GitHub 仓库的 **Settings → Pages → Build and deployment → Source** 中选择 **GitHub Actions**。
+2. 将本项目配置及 `package-lock.json` 一起提交并推送到 `main` 分支。
+3. 等待 **Actions → Deploy docs to GitHub Pages** 执行成功，再访问上面的网站地址。
+
+以后修改笔记并推送到 `main`，网站会自动更新。也可以在 Actions 中手动运行部署工作流。
+
+### 新增笔记
+
+沿用 `src/season1/learn_106.md` 这样的路径，左侧目录会在下次构建时自动更新。新增一季时创建 `src/season2/index.md` 和 `src/season2/learn_201.md`，同样会自动生成导航。文件名采用 `learn_季号加两位集号.md`，例如第 2 季第 3 集是 `learn_203.md`。
+
+每篇笔记以一级标题开头，例如 `# 第 1 季 · 第 6 集`，这样正文会被全文搜索收录。
+
+网站发布学习笔记和季介绍页；已有的数字命名对白文件与 `SUMMARY.md` 不参与构建。
+
+GitHub Pages 的项目路径已配置为 `/learn-english-with-friends/`。如果更改仓库名称或使用自定义域名，请同步修改 `src/.vitepress/config.mts` 中的 `base`。
+
 ## 学习目标
 
 - **听得懂**：熟悉日常对话中的语速、连读、弱读和语气。
@@ -30,7 +65,7 @@
 
 > 听懂一句对白只是起点。能判断什么时候使用，并换成自己的内容说出来，才是这份笔记想达到的目标。
 
-每集一份笔记，使用 `s01e01.md` 这样的文件名，方便排序与查找。后续各季可以继续建立 `season-02/` 等目录。
+每集一份笔记，使用 `src/season1/learn_101.md` 这样的路径，方便排序与查找。后续各季可以继续建立 `src/season2/` 等目录。
 
 ## 单集笔记模板
 

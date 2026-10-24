@@ -1,3 +1,5 @@
+# 第 1 季 · 第 4 集
+
 |表达|解读|
 | --- | --- |
 |if I were omnipotent for a day, I'd.. make myself omnipotent forever.|if I were xxx: 虚拟语气，用were.<br><br>omnipotent: 全能的，无所不能的。|

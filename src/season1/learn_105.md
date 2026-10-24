@@ -1,3 +1,5 @@
+# 第 1 季 · 第 5 集
+
 |表达|解读|
 | --- | --- |
 |you know what blows my mind?|blow someone's mind 是一个习语，让某人大开眼界。|
