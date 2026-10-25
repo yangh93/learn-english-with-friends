@@ -17,13 +17,10 @@ const seasons = readdirSync(sourceDirectory, { withFileTypes: true })
     return {
       text: `第 ${seasonNumber} 季`,
       collapsed: false,
-      items: [
-        { text: '本季介绍', link: `/${entry.name}/` },
-        ...notes.map((file) => ({
-          text: `第 ${Number(file.match(/(\d+)\.md$/)![1]) % 100} 集`,
-          link: `/${entry.name}/${file.replace(/\.md$/, '')}`,
-        })),
-      ],
+      items: notes.map((file) => ({
+        text: `第 ${Number(file.match(/(\d+)\.md$/)![1]) % 100} 集`,
+        link: `/${entry.name}/${file.replace(/\.md$/, '')}`,
+      })),
     }
   })
 
@@ -39,7 +36,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '第一季', link: '/season1/' },
+      { text: '第一季', link: '/season1/learn_101' },
     ],
     sidebar: seasons,
     search: { provider: 'local' },

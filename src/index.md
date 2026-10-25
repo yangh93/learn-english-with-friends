@@ -8,8 +8,7 @@
 
 ## 开始学习
 
-- [第一季介绍](./season1/index.md)
-- [从第 1 集开始](./season1/learn_101.md)
+[从第 1 集开始](./season1/learn_101.md)
 
 ## 学习方法
 
