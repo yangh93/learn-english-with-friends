@@ -18,5 +18,3 @@
 |14|You pick up the pieces, and then you usher in the age of Ross!|你先帮她收拾心情，然后就能开启‘罗斯时代’了！<br><br>usher in…：开启、迎来……，常用于某个新阶段或新时代。例如 usher in a new era → “开启一个新时代”。|
 |15|I don't think that swearing off guys altogether is the answer.|swear off…：发誓戒掉……／下定决心不再碰……。<br><br>altogether：完全、彻底|
 |16|I think that what you need is to develop a more sophisticated screening process.|你需要的是一套更周密的择偶筛选办法。|
-|17|||
-|18|||
