@@ -6,7 +6,7 @@
 |2|Stop being so testosteroney!|别这么大男子主义, testosterone /tesˈtɑːstəroʊn/：睾酮，一种雄性激素。||
 |3|I will just put an end to it!|put an end to something：结束某事、使某事停止。||
 |4|Hey, I've been honing!|我可是一直在苦练呢！<br><br>hone /hoʊn/：本义是“磨快、磨利”，引申为磨炼、精进某种技能。||
-|5|I'll just break it off with her.|我就跟她分手好了。<br><br>我就跟她分手好了。||
+|5|I'll just break it off with her.|我就跟她分手好了。||
 |6|When I went there on what would have been our honeymoon, it was, uh... it was really nice.|我当时去了那里，那趟旅行本来应该是我们的蜜月。那里，呃……真的挺不错的。<br><br>go on a honeymoon：去度蜜月。<br><br>what would have been our honeymoon：本来会成为我们蜜月的那趟旅行。||
 |7|I have a jam-packed schedule.|我的日程排得满满的。||
 |8|what else is it about?|这还能是关于什么的？||
