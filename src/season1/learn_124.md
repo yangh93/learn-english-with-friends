@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 |1|It's a fertility study.|这是一个生育能力研究项目。<br><br>fertility /fərˈtɪləti/：生育能力、生育力||
 |2|you're gonna be making money hand over fist!|你很快就能赚得盆满钵满。<br><br>hand over fist：大量、飞快地；常用于形容赚钱速度快、赚得多。||
-|3|So here's my itinerary.|这是我的行程安排。||
+|3|So here's my itinerary.|这是我的行程安排。itinerary /aɪˈtɪnəˌreri/：行程安排、旅行计划||
 |4|Listen, buddy, we're just looking out for you.|听着，伙计，我们只是关心你、替你着想。||
 |5|OK, how does everybody like their burgers?|好，大家的汉堡都想要怎么做？<br><br>这里的 how do you like…? 是在问食物想要的做法或熟度，不是问“喜不喜欢”。||
 |6|We were walking by this antique store.|我们当时正好路过一家古董店。||
